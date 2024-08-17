@@ -1,7 +1,0 @@
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\webapp-sam-lab13.exe
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\appsettings.Development.json
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\appsettings.json
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\webapp-sam-lab13.dll
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\webapp-sam-lab13.deps.json
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\webapp-sam-lab13.runtimeconfig.json
-C:\Users\1164788\OneDrive - UAB\Escritorio\Cursos\az-204\GIt\AzureWebapp\webapp-sam-lab13.pdb
