@@ -31,7 +31,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: .net-app
-          path: "C:\Users\Admin\Documents\AzureWebapp"
+          path: C:\Users\Admin\Documents\AzureWebapp
 
   deploy:
     runs-on: windows-latest
