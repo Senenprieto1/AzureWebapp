@@ -5,9 +5,13 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>webapp_sam_lab13</RootNamespace>
+  <EnableScopedCss>false</EnableScopedCss>
   </PropertyGroup>
 <ItemGroup>
-  <None Remove="wwwroot\webapp-sam-lab13.styles.css" />
+  <Content Remove="wwwroot\webapp-sam-lab13.styles.css" />
+  <Content Remove="obj\Release\net8.0\scopedcss\bundle\webapp-sam-lab13.styles.css" />
 </ItemGroup>
+
+
 
 </Project>
